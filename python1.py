@@ -82,9 +82,3 @@ print("감지된 사람수: " , person)   #감지된 사람 수
 
 if person == 2:
     brake()
-
-
-# 기준치 설정 /4? 5?
-# 더 다양한 경우의 수
-
-# 해당 코드를 raspberrypi 적용
